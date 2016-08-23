@@ -5,6 +5,13 @@
 ## Hello, Ada.
 Creating a resume for you meant considering my identity. I am an activist, a feminist, a lesbian, a teacher- but the most important aspects of my identity aren't the labels I use- they are the actions I make every day, the choices I make to better my world, my work, and myself. 
 
+### Objectives
+* *I want to join Ada Developers Academy's February Cohort and become a full stack developer.*
+
+* *I want to integrate my existing skills of problem-solving, language learning, logic and soft skills with the Ada curriculum.*
+
+* *I want to create educational software and aid developing countries' access to technology.*
+
 ## Here's a little about me:
 
 ### Education
